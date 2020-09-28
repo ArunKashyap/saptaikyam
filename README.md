@@ -1,2 +1,0 @@
-# saptaikyam
-Created with CodeSandbox
