@@ -1,0 +1,141 @@
+{
+    "Header": {
+
+        "title": "Panorama Saptaikyam",
+        "paragraph": "7 blocks...One family !!!"
+
+    },
+    "About": {
+        "paragraph": "We are a team of 15 contestants who are contending for the board of members in the upcoming association election in Brigade Panorama which is being held on 4th of October. Like-minded, Passionate, selfless and motivated team of 15, No doubt, a diverse-opinionated team does great in a democratic system, but such a team cannot achieve a common goal without harmony and maturity. We, the Sapthaikyam team promise you, if given a chance, shall serve this community to our fullest capabilities. And we hereby request you to give all of us that chance! We, the Saptaikyam team comprise of 6(out of 8) core Ad-hoc committee members whom you have supported and cheered for last 4 years. These 6 members have been actively participating and still fighting(even now, as we send out this message) for some of the major long term project issues, ill-filled promises by the builder, without a legal recognition, with at-most transparency. These able 6 are accompanied by self driven individuals who have been supporting and volunteering all this while in the interest of the community. And, now they have stepped up to own bigger responsibilities for a better community living here in Brigade Panorama! All of us are true professionals with immense expertise in fields like entrepreneurship, civil, banking, medical, IT and Finance. Each one of us is a true leader in every sense. Although, we are majorly a team of youngsters, we are blessed with the advice and experienced inputs from our beloved senior citizens who primarily are our motivation to form this team. We are overwhelmed by their unconditional support and are forever grateful. We, as in our name, believe in Unity. Sapthaikyam - symbolises the 7 towers of Brigade Panorama in union. We understand and respect the true meaning of PARIVAAR... WITH UNITY SHALL ONLY WE SUCCEED! So Residents, we humbly request you to recognise our team members from your respective blocks and cast your valuable vote in support of Sapthaikyam team. For a stable administration it is very important that ALL these 15 members to be in the first ever Brigade Panorama Association. Having said this, we wish good luck to all other participating candidates and pray, each one of us is kind to one another in the good spirit of the election process. After all, we all are here for a very long time",
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Parvati Chauhan, Vekataramana, Sujatha Rao",
+            "job": "C Block Candidates"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Amit Surana, Girish G, ShivaKumar",
+            "job": "D Block Candidates"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Prasad T, Veeresh M N, Puneet Rawal",
+            "job": "E Block Candidates"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "VijayKumar Joshi, Vishwanath Hosatti, Vinod Madanshetti",
+            "job": "F Block Candidates"
+        },
+        {
+            "img": "img/team/05.jpg",
+            "name": "Jitendra D J, Harsha Kashyap, Raghavendra Bhat",
+            "job": "G Block Candidates"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
