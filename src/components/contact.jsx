@@ -106,7 +106,7 @@ export class Contact extends Component {
                     <li>
                       <a href={this.props.data ? this.props.data.youtube : "/"}>
                         <i className="fa fa-youtube"></i>
-                      </a>
+                       </a>
                     </li>
                   </ul>
                 </div>
