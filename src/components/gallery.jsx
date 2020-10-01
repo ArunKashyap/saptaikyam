@@ -8,8 +8,7 @@ export class Gallery extends Component {
           <div className="section-title">
             <h2>Gallery</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
+              What do we our candidtes say about Manifesto ?
             </p>
           </div>
           <div className="row">
@@ -19,13 +18,14 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/01-large.jpg"
-                      title="Project Title"
+                      href="videos/harsha.mp4"
+                      title="Harsha Kashyap"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Harsha Kashyap</h4>
                       </div>
+
                       <img
                         src="img/portfolio/01-small.jpg"
                         className="img-responsive"

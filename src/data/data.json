@@ -85,30 +85,81 @@
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "Parvati Chauhan, Vekataramana, Sujatha Rao",
-            "job": "C Block Candidates"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Amit Surana, Girish G, ShivaKumar",
-            "job": "D Block Candidates"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Prasad T, Veeresh M N, Puneet Rawal",
-            "job": "E Block Candidates"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "VijayKumar Joshi, Vishwanath Hosatti, Vinod Madanshetti",
-            "job": "F Block Candidates"
-        },
-        {
-            "img": "img/team/05.jpg",
-            "name": "Jitendra D J, Harsha Kashyap, Raghavendra Bhat",
-            "job": "G Block Candidates"
-        }
-    ],
+        "img": "img/team/01.jpg",
+        "name": "Parvati Chauhan",
+        "job": "C Block Candidates"
+    },
+    {
+        "img": "img/team/02.jpg",
+        "name": "Vekataramana",
+        "job": "C Block Candidates"
+    },
+    {
+        "img": "img/team/03.jpg",
+        "name": "Sujatha Rao",
+        "job": "C Block Candidates"
+    },
+    {
+        "img": "img/team/04.jpg",
+        "name": "Amit Surana",
+        "job": "D Block Candidates"
+    },
+    {
+        "img": "img/team/05.jpg",
+        "name": "Girish G",
+        "job": "D Block Candidates"
+    },
+    {
+        "img": "img/team/06.jpg",
+        "name": "ShivaKumar",
+        "job": "D Block Candidates"
+    },
+    {
+        "img": "img/team/07.jpg",
+        "name": "Prasad T",
+        "job": "E Block Candidates"
+    },
+    {
+        "img": "img/team/08.jpg",
+        "name": "Veeresh M N",
+        "job": "E Block Candidates"
+    },
+    {
+        "img": "img/team/09.jpg",
+        "name": "Puneet Rawal",
+        "job": "E Block Candidates"
+    },
+    {
+        "img": "img/team/10.jpg",
+        "name": "VijayKumar Joshi",
+        "job": "F Block Candidates"
+    },
+    {
+        "img": "img/team/11.jpg",
+        "name": "Vishwanath Hosatti",
+        "job": "F Block Candidates"
+    },
+    {
+        "img": "img/team/12.jpg",
+        "name": "Vinod Madanshetti",
+        "job": "F Block Candidates"
+    },
+    {
+        "img": "img/team/13.jpg",
+        "name": "Jitendra D J",
+        "job": "G Block Candidates"
+    },
+    {
+        "img": "img/team/14.jpg",
+        "name": "Harsha Kashyap",
+        "job": "G Block Candidates"
+    },
+    {
+        "img": "img/team/15.jpg",
+        "name": "Raghavendra Bhat",
+        "job": "G Block Candidates"
+    }
+],
     "Contact": {
         "address": "Brigade Panorama, Mysore Raod, Bangalore",
         "phone": "+91 9590041888",
