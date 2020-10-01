@@ -30,7 +30,6 @@ export class App extends Component {
         <Features data={this.state.landingPageData.Features} />
         <About data={this.state.landingPageData.About} />
         <Services data={this.state.landingPageData.Services} />
-        <Gallery />
         <Team data={this.state.landingPageData.Team} />
       </div>
     )

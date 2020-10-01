@@ -40,7 +40,7 @@ export class Navigation extends Component {
               </li>
               <li>
                 <a href="#services" className="page-scroll">
-                  Achievements
+                  Manifesto
                 </a>
               </li>
               <li>

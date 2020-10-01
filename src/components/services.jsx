@@ -6,10 +6,9 @@ export class Services extends Component {
       <div id="services" className="text-center">
         <div className="container">
           <div className="section-title">
-            <h2>Achievements</h2>
+            <h2>Manifesto</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
+              Panorama Saptaikya Manifesto 
             </p>
           </div>
           <div className="row">
