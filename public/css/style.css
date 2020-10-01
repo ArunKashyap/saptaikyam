@@ -184,14 +184,13 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 /* Header Section */
 .intro {
 	display: table;
-	width: 100%;
+	
 	padding: 0;
 	background: url(../img/intro-bg.jpg) center center no-repeat;
 	background-color: #000000;
-	-webkit-background-size: content;
-	-moz-background-size: content;
-	background-size: content;
-	-o-background-size: content;
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position:center;
 }
 .intro .overlay {
 	background: rgba(0,0,0,0.2);
