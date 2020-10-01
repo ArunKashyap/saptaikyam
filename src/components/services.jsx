@@ -26,7 +26,7 @@ export class Services extends Component {
               : "loading"}
           </div>
           <div>
-            <a href= "img/BPOA Elections Saptaikyam Manifesto .pdf" target="_blank">
+            <a href= "https://shriyaak.s3.amazonaws.com/BPOA+Elections+Saptaikyam+Manifesto+.pdf" target="_blank">
               <i class="fa fa-download" aria-hidden="true"></i>
             </a>
           </div>
