@@ -8,7 +8,7 @@ export class Team extends Component {
           <div className="col-md-8 col-md-offset-2 section-title">
             <h2>Meet the Team</h2>
             <p>
-              Here are the team members who are seeking your blessing and votes.
+              Here are the team members who are seeking your blessings and votes.
             </p>
           </div>
           <div id="row">
