@@ -1,7 +1,7 @@
 {
     "Header": {
 
-        "title": "Panorama Saptaikyam",
+        "title": "Saptaikyam",
         "paragraph": "7 blocks...One family !!!"
 
     },
@@ -21,38 +21,38 @@
         
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "This is the first achievement"
-        },
-        {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        }
+        "icon": "fa fa-users",
+        "name": "Amendments Of BPOA Bylaws",
+        "text": "Bylaw Amendment will be carried out by a Committee comprising of Experienced/Expert Residents "
+    },
+    {
+        "icon": "fa fa-medkit",
+        "name": "Health Care Facility",
+        "text": "We will be fully committed to create basic health facility like Clinic/Pharmacy besides an Ambulance to cater to the needs of the residents."
+    },
+    {
+        "icon": "fa fa-female",
+        "name": "Women Empowerment Programs",
+        "text": "We would have a strong platform build for our ladies of Panorama which would nurture & make them self-reliant across verticals."
+    },
+    {
+        "icon": "fa fa-heartbeat",
+        "name": "Senior Citizen Welfare",
+        "text": "Special team would be created, driven & supported by BPOA & Volunteers to support senior citizens in BP. Programs on literature & culture would be bought to the community"
+    },
+    {
+        "icon": "fa fa-child",
+        "name": "Children Welfare",
+        "text": "Focused & opportunity-driven monthly programs to enhance children’s skillset. Tie-up with professional sports academies to utilise our sports facilities to the fullest"
+    },
+    {
+        "icon": "fa fa-tree",
+        "name": "Pollution free environment",
+        "text": "Every effort would be made to keep our surrounding environment pollution free, caused by the discharges from surrounding industries which are haunting the residents since long time."
+    }
 
 
-    ],
+],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
             "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
@@ -169,24 +169,24 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        }
-    ]
+        "icon": "fa fa-user-md",
+        "title": "Healthcare Professionals",
+        "text": "Team comprise of Healthcare professional, with vast experience in healthcare industry"
+    },
+    {
+        "icon": "fa fa-inr",
+        "title": "Finance Professionals",
+        "text": "Team comprise of people with Rich Expertise in Financial industry, which can be utilized for greater use"
+    },
+    {
+        "icon": "fa fa-code",
+        "title": "IT Professionals",
+        "text": "Team comprise of Many IT Professional with more than 15+ years of experience in various domains"
+    },
+    {
+        "icon": "fa fa-lightbulb-o",
+        "title": "Entrepreneurs",
+        "text": "Many Entrepreneurs in Team, who have achieved multiple goals with strong determination & Hardwork "
+    }
+]
 }
