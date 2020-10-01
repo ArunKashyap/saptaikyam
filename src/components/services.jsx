@@ -25,6 +25,16 @@ export class Services extends Component {
                 ))
               : "loading"}
           </div>
+          <div>
+            <a href= "img/BPOA Elections Saptaikyam Manifesto .pdf" target="_blank">
+              <i class="fa fa-download" aria-hidden="true"></i>
+            </a>
+          </div>
+          <br>
+          </br>
+          <div className="row">
+            <b>Download full Manifesto</b>
+          </div>
         </div>
       </div>
     );
