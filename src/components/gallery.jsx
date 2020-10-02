@@ -32,7 +32,7 @@ export class Gallery extends Component {
           <div className="col-sm-6 col-md-4 col-lg-4">
           <div className="card" style={{ width: '38rem' }}>
           <div className="card-body">
-            <h5 className="card-title">Parvati Chauhan</h5>
+            <h5 className="card-title">Parvathi Chauhan</h5>
             <Player
               playsInline
               poster="https://d1cw6765f5rr71.cloudfront.net/01.jpg"
