@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import { Player } from 'video-react';
+
 
 export class Gallery extends Component {
   render() {
@@ -6,204 +8,237 @@ export class Gallery extends Component {
       <div id="portfolio" className="text-center">
         <div className="container">
           <div className="section-title">
-            <h2>Gallery</h2>
+            <h2>Vision</h2>
             <p>
-              What do we our candidtes say about Manifesto ?
+              Want to know what our candidates say about our Vision and Manifesto ?
             </p>
           </div>
           <div className="row">
-            <div className="portfolio-items">
-              <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item">
-                  <div className="hover-bg">
-                    {" "}
-                    <a
-                      href="videos/harsha.mp4"
-                      title="Harsha Kashyap"
-                      data-lightbox-gallery="gallery1"
-                    >
-                      <div className="hover-text">
-                        <h4>Harsha Kashyap</h4>
-                      </div>
-
-                      <img
-                        src="img/portfolio/01-small.jpg"
-                        className="img-responsive"
-                        alt="Project Title"
-                      />{" "}
-                    </a>{" "}
-                  </div>
-                </div>
+          <div className="col-sm-6 col-md-4 col-lg-4">
+          <div className="card" style={{ width: '38rem' }}>
+          <div className="card-body">
+            <h5 className="card-title">Saptaikyam Intro Video</h5>
+            <Player
+              playsInline
+              poster="https://d1cw6765f5rr71.cloudfront.net/intro-bg.jpg"
+              src="https://d1cw6765f5rr71.cloudfront.net/Saptaikyam.mp4"
+              fluid={false}
+              width={380}
+              height={220}
+              />
               </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item">
-                  <div className="hover-bg">
-                    {" "}
-                    <a
-                      href="img/portfolio/02-large.jpg"
-                      title="Project Title"
-                      data-lightbox-gallery="gallery1"
-                    >
-                      <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
-                      </div>
-                      <img
-                        src="img/portfolio/02-small.jpg"
-                        className="img-responsive"
-                        alt="Project Title"
-                      />{" "}
-                    </a>{" "}
-                  </div>
-                </div>
+          </div>
+          </div>
+          <div className="col-sm-6 col-md-4 col-lg-4">
+          <div className="card" style={{ width: '38rem' }}>
+          <div className="card-body">
+            <h5 className="card-title">Parvati Chauhan</h5>
+            <Player
+              playsInline
+              poster="https://d1cw6765f5rr71.cloudfront.net/01.jpg"
+              src="https://d1cw6765f5rr71.cloudfront.net/01.mp4"
+               fluid={false}
+               width={380}
+               height={220}
+              />
               </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item">
-                  <div className="hover-bg">
-                    {" "}
-                    <a
-                      href="img/portfolio/03-large.jpg"
-                      title="Project Title"
-                      data-lightbox-gallery="gallery1"
-                    >
-                      <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
-                      </div>
-                      <img
-                        src="img/portfolio/03-small.jpg"
-                        className="img-responsive"
-                        alt="Project Title"
-                      />{" "}
-                    </a>{" "}
-                  </div>
-                </div>
+          </div>
+          </div>
+          <div className="col-sm-6 col-md-4 col-lg-4">
+          <div className="card" style={{ width: '38rem' }}>
+          <div className="card-body">
+            <h5 className="card-title">Vekataramana</h5>
+            <Player
+              playsInline
+              poster="https://d1cw6765f5rr71.cloudfront.net/02.jpg"
+              src="https://d1cw6765f5rr71.cloudfront.net/02.mp4"
+               fluid={false}
+               width={380}
+               height={220}
+              />
               </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item">
-                  <div className="hover-bg">
-                    {" "}
-                    <a
-                      href="img/portfolio/04-large.jpg"
-                      title="Project Title"
-                      data-lightbox-gallery="gallery1"
-                    >
-                      <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
-                      </div>
-                      <img
-                        src="img/portfolio/04-small.jpg"
-                        className="img-responsive"
-                        alt="Project Title"
-                      />{" "}
-                    </a>{" "}
-                  </div>
-                </div>
+          </div>
+          </div>
+          <div className="col-sm-6 col-md-4 col-lg-4">
+          <div className="card" style={{ width: '38rem' }}>
+          <div className="card-body">
+            <h5 className="card-title">Sujatha Rao</h5>
+            <Player
+              playsInline
+              poster="https://d1cw6765f5rr71.cloudfront.net/03.jpg"
+              src="https://d1cw6765f5rr71.cloudfront.net/03.mp4"
+               fluid={false}
+               width={380}
+               height={220}
+              />
               </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item">
-                  <div className="hover-bg">
-                    {" "}
-                    <a
-                      href="img/portfolio/05-large.jpg"
-                      title="Project Title"
-                      data-lightbox-gallery="gallery1"
-                    >
-                      <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
-                      </div>
-                      <img
-                        src="img/portfolio/05-small.jpg"
-                        className="img-responsive"
-                        alt="Project Title"
-                      />{" "}
-                    </a>{" "}
-                  </div>
-                </div>
+          </div>
+          </div>
+          <div className="col-sm-6 col-md-4 col-lg-4">
+          <div className="card" style={{ width: '38rem' }}>
+          <div className="card-body">
+            <h5 className="card-title">Amit Surana</h5>
+            <Player
+              playsInline
+              poster="https://d1cw6765f5rr71.cloudfront.net/04.jpg"
+              src="https://d1cw6765f5rr71.cloudfront.net/04.mp4"
+               fluid={false}
+               width={380}
+               height={220}
+              />
               </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item">
-                  <div className="hover-bg">
-                    {" "}
-                    <a
-                      href="img/portfolio/06-large.jpg"
-                      title="Project Title"
-                      data-lightbox-gallery="gallery1"
-                    >
-                      <div className="hover-text">
-                        <h4>Dolor Sit</h4>
-                      </div>
-                      <img
-                        src="img/portfolio/06-small.jpg"
-                        className="img-responsive"
-                        alt="Project Title"
-                      />{" "}
-                    </a>{" "}
-                  </div>
-                </div>
+          </div>
+          </div>
+          <div className="col-sm-6 col-md-4 col-lg-4">
+          <div className="card" style={{ width: '38rem' }}>
+          <div className="card-body">
+            <h5 className="card-title">Girish G</h5>
+            <Player
+              playsInline
+              poster="https://d1cw6765f5rr71.cloudfront.net/05.jpg"
+              src="https://d1cw6765f5rr71.cloudfront.net/05.mp4"
+               fluid={false}
+               width={380}
+               height={220}
+              />
               </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item">
-                  <div className="hover-bg">
-                    {" "}
-                    <a
-                      href="img/portfolio/07-large.jpg"
-                      title="Project Title"
-                      data-lightbox-gallery="gallery1"
-                    >
-                      <div className="hover-text">
-                        <h4>Dolor Sit</h4>
-                      </div>
-                      <img
-                        src="img/portfolio/07-small.jpg"
-                        className="img-responsive"
-                        alt="Project Title"
-                      />{" "}
-                    </a>{" "}
-                  </div>
-                </div>
+          </div>
+          </div>
+          <div className="col-sm-6 col-md-4 col-lg-4">
+          <div className="card" style={{ width: '38rem' }}>
+          <div className="card-body">
+            <h5 className="card-title">Shivkumar Ramesh</h5>
+            <Player
+              playsInline
+              poster="https://d1cw6765f5rr71.cloudfront.net/06.jpg"
+              src="https://d1cw6765f5rr71.cloudfront.net/06.mp4"
+               fluid={false}
+               width={380}
+               height={220}
+              />
               </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item">
-                  <div className="hover-bg">
-                    {" "}
-                    <a
-                      href="img/portfolio/08-large.jpg"
-                      title="Project Title"
-                      data-lightbox-gallery="gallery1"
-                    >
-                      <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
-                      </div>
-                      <img
-                        src="img/portfolio/08-small.jpg"
-                        className="img-responsive"
-                        alt="Project Title"
-                      />{" "}
-                    </a>{" "}
-                  </div>
-                </div>
+          </div>
+          </div>
+          <div className="col-sm-6 col-md-4 col-lg-4">
+          <div className="card" style={{ width: '38rem' }}>
+          <div className="card-body">
+            <h5 className="card-title">Prasad T</h5>
+            <Player
+              playsInline
+              poster="https://d1cw6765f5rr71.cloudfront.net/07.jpg"
+              src="https://d1cw6765f5rr71.cloudfront.net/07.mp4"
+               fluid={false}
+               width={380}
+               height={220}
+              />
               </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item">
-                  <div className="hover-bg">
-                    {" "}
-                    <a
-                      href="img/portfolio/09-large.jpg"
-                      title="Project Title"
-                      data-lightbox-gallery="gallery1"
-                    >
-                      <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
-                      </div>
-                      <img
-                        src="img/portfolio/09-small.jpg"
-                        className="img-responsive"
-                        alt="Project Title"
-                      />{" "}
-                    </a>{" "}
-                  </div>
-                </div>
+          </div>
+          </div>
+          <div className="col-sm-6 col-md-4 col-lg-4">
+          <div className="card" style={{ width: '38rem' }}>
+          <div className="card-body">
+            <h5 className="card-title">Puneet Rawal</h5>
+            <Player
+              playsInline
+              poster="https://d1cw6765f5rr71.cloudfront.net/09.jpg"
+              src="https://d1cw6765f5rr71.cloudfront.net/09.mp4"
+               fluid={false}
+               width={380}
+               height={220}
+              />
               </div>
-            </div>
+          </div>
+          </div>
+          <div className="col-sm-6 col-md-4 col-lg-4">
+          <div className="card" style={{ width: '38rem' }}>
+          <div className="card-body">
+            <h5 className="card-title">Dr Vijay Joshi</h5>
+            <Player
+              playsInline
+              poster="https://d1cw6765f5rr71.cloudfront.net/10.jpg"
+              src="https://d1cw6765f5rr71.cloudfront.net/10.mp4"
+               fluid={false}
+               width={380}
+               height={220}
+              />
+              </div>
+          </div>
+          </div>
+          <div className="col-sm-6 col-md-4 col-lg-4">
+          <div className="card" style={{ width: '38rem' }}>
+          <div className="card-body">
+            <h5 className="card-title">Vishwanath Hosatti</h5>
+            <Player
+              playsInline
+              poster="https://d1cw6765f5rr71.cloudfront.net/11.jpg"
+              src="https://d1cw6765f5rr71.cloudfront.net/11.mp4"
+               fluid={false}
+               width={380}
+               height={220}
+              />
+              </div>
+          </div>
+          </div>
+          <div className="col-sm-6 col-md-4 col-lg-4">
+          <div className="card" style={{ width: '38rem' }}>
+          <div className="card-body">
+            <h5 className="card-title">Vinod Madanshetti</h5>
+            <Player
+              playsInline
+              poster="https://d1cw6765f5rr71.cloudfront.net/12.jpg"
+              src="https://d1cw6765f5rr71.cloudfront.net/12.mp4"
+               fluid={false}
+               width={380}
+               height={220}
+              />
+              </div>
+          </div>
+          </div>
+          <div className="col-sm-6 col-md-4 col-lg-4">
+          <div className="card" style={{ width: '38rem' }}>
+          <div className="card-body">
+            <h5 className="card-title">Jitendra D J</h5>
+            <Player
+              playsInline
+              poster="https://d1cw6765f5rr71.cloudfront.net/13.jpg"
+              src="https://d1cw6765f5rr71.cloudfront.net/13.mp4"
+               fluid={false}
+               width={380}
+               height={220}
+              />
+              </div>
+          </div>
+          </div>
+          <div className="col-sm-6 col-md-4 col-lg-4">
+          <div className="card" style={{ width: '38rem' }}>
+          <div className="card-body">
+            <h5 className="card-title">Harsha Kashyap</h5>
+            <Player
+              playsInline
+              poster="https://d1cw6765f5rr71.cloudfront.net/14.jpg"
+              src="https://d1cw6765f5rr71.cloudfront.net/14.mp4"
+               fluid={false}
+               width={380}
+               height={220}
+              />
+              </div>
+          </div>
+          </div>
+          <div className="col-sm-6 col-md-4 col-lg-4">
+          <div className="card" style={{ width: '38rem' }}>
+          <div className="card-body">
+            <h5 className="card-title">Raghavendra Bhat</h5>
+            <Player
+              playsInline
+              poster="https://d1cw6765f5rr71.cloudfront.net/15.jpg"
+              src="https://d1cw6765f5rr71.cloudfront.net/15.mp4"
+               fluid={false}
+               width={380}
+               height={220}
+              />
+              </div>
+          </div>
+          </div>
           </div>
         </div>
       </div>

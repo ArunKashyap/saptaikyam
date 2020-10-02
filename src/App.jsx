@@ -9,6 +9,7 @@ import Testimonials from './components/testimonials';
 import Team from './components/Team';
 import Contact from './components/contact';
 import JsonData from './data/data.json';
+import 'video-react/dist/video-react.css'; 
 
 export class App extends Component {
   state = {
@@ -30,7 +31,9 @@ export class App extends Component {
         <Features data={this.state.landingPageData.Features} />
         <About data={this.state.landingPageData.About} />
         <Services data={this.state.landingPageData.Services} />
+        <Gallery />
         <Team data={this.state.landingPageData.Team} />
+
       </div>
     )
   }

@@ -184,9 +184,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 /* Header Section */
 .intro {
 	display: table;
-	
+
 	padding: 0;
-	background: url(../img/intro-bg.jpg) center center no-repeat;
+	background: url(https://d1cw6765f5rr71.cloudfront.net/intro-bg.jpg) center center no-repeat;
 	background-color: #000000;
 	background-repeat:no-repeat;
 	background-size:contain;

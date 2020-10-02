@@ -18,7 +18,7 @@
             "Proven Leadership skills",
             "Empathetic, Reliable & Positive minded individuals"
         ]
-        
+
     },
     "Services": [{
         "icon": "fa fa-users",
@@ -187,6 +187,11 @@
         "icon": "fa fa-lightbulb-o",
         "title": "Entrepreneurs",
         "text": "Many Entrepreneurs in Team, who have achieved multiple goals with strong determination & Hardwork "
+    },
+    {
+        "icon": "fa fa-tint",
+        "title": "Water Experts",
+        "text": "Team comprise of water experts who possess domain skill of Water management specialised in RO productivity, Sewage treatment, Rain water harvesting"
     }
 ]
 }
